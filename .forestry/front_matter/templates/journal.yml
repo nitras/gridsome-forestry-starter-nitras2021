@@ -27,8 +27,8 @@ fields:
   name: author
   config:
     source:
-      type: simple
-      section: authors
+      type: pages
+      section: clients-51588606-6052-4296-badb-0d5582b32acf
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
