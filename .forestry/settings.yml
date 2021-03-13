@@ -9,8 +9,6 @@ sections:
   label: Author
   create: all
   match: "**/*"
-  templates:
-  - author
 - type: directory
   path: projects
   label: Projects
