@@ -3,11 +3,16 @@ label: Client
 hide_body: true
 display_field: person_name
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - name: company
   type: text
   config:
     required: false
-  label: Compagny
+  label: Company
 - name: description
   type: textarea
   default: ''
