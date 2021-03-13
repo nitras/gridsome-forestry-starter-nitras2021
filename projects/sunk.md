@@ -7,6 +7,8 @@ categories:
 - blue
 project_bg_color: "#EDEDED"
 project_fg_color: "#36B5EF"
+client: clients/fruit-at-work.md
+featured: true
 
 ---
 ![](/uploads/cody-davis-253925-unsplash.jpg)
