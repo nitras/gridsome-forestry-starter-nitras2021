@@ -12,15 +12,19 @@ sections:
   templates:
   - project
 - type: directory
+  path: clients
+  label: Clients
+  create: documents
+  match: "**/*"
+  templates:
+  - client
+- type: directory
   path: journal
   label: Journal
   create: documents
   match: "**/*.md"
   templates:
   - journal
-- type: document
-  path: clients/**/*.md
-  label: Clients
 - type: document
   path: data/theme.json
   label: Theme config
