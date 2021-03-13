@@ -1,4 +1,42 @@
 ---
 label: Client
 hide_body: true
-fields: []
+fields:
+- name: company
+  type: text
+  config:
+    required: false
+  label: Compagny
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: person_name
+  type: text
+  config:
+    required: false
+  label: Person Name
+- name: function
+  type: text
+  config:
+    required: false
+  label: Function / role
+- name: logo
+  type: file
+  config:
+    maxSize: 64
+  label: Logo
+- name: review
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Review
