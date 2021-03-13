@@ -4,7 +4,7 @@ description: Marktleiders in Fruit Op het werk
 person_name: Yannick Aerts
 function: Zaakvoerder
 review: |-
-  Een premium product kan niet zonder een premium website. In onze zoektocht naar een designer die naast hoge kwaliteit ook snel kan schakelen en luistert naar de klant, kozen we voor Peter.
+  Een premium product kan niet zonder een premium website. In onze zoektocht naar een designer die naast hoge kwaliteit ook snel kan schakelen en luistert naar de klant, kozen we voor Peter van Nit'ras / uw grafisch ontwerper.
 
   Hij acteerde perfect in het team  van vier dat bestond uit ontwikkelaar, copywriter,  designer en klant. Door een eerste goede samenwerking in het verleden, is onze professionele relatie uitgegroeid tot een duurzame relatie. Peter is onze huisdesigner geworden. Van online tot offline.
 
