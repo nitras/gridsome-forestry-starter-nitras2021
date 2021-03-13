@@ -6,6 +6,18 @@ fields:
   name: thumbnail
   label: Thumbnail
   description: This will only show up on the front page
+- name: client
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: clients-51588606-6052-4296-badb-0d5582b32acf
+      file: 
+      path: 
+  label: Client
 - type: text
   name: title
   label: Title
