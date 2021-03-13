@@ -15,7 +15,7 @@ sections:
   path: clients
   label: Clients
   create: documents
-  match: "**/*"
+  match: "**/*.md"
   templates:
   - client
 - type: directory
