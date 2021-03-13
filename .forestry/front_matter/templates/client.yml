@@ -1,6 +1,7 @@
 ---
 label: Client
 hide_body: true
+display_field: person_name
 fields:
 - name: company
   type: text
