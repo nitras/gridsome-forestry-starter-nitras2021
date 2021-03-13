@@ -47,6 +47,9 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+- name: featured
+  type: boolean
+  label: Featured
 pages:
 - projects/3d-graff.md
 - projects/chelsea-landmark.md
